@@ -3,14 +3,7 @@
 - 🌱 I’m currently learning Google Data Analytics Professional Certificate by Coursera
 - 💬 Ask me about Data Analyst
 - 📫 Feel free to reach out on Whatsapp or Email
-- 👦🏻 About Me
-I am an enthusiastic and self-motivated learner, currently building my skills to become a professional Data Analyst.
-
-Technology excites me and I am always in awe of the change it drives in the world. I’m learning how to collect, clean, analyze, and visualize data using industry-standard tools like Microsoft Excel, SQL, Power BI and Python. Recently, I have completed ''Career Essentials in Data Analysis by Microsoft and Linkedln'', which helped me gain hands on knowledge in cleaning, analyzing, and interpreting data effectively.
-
-Right now, I'm continuing my journey through ''Google Data Analytics Professional Certificate''focusing on real-world tools and techniques used in the industry. 
-
-Outside of tech, I am passionate about football and enjoy watching matches.
+- 👦🏻 About Me:I am an enthusiastic and self-motivated learner, currently building my skills to become a professional Data Analyst.Technology excites me and I am always in awe of the change it drives in the world. I’m learning how to collect, clean, analyze, and visualize data using industry-standard tools like Microsoft Excel, SQL, Power BI and Python. Recently, I have completed ''Career Essentials in Data Analysis by Microsoft and Linkedln'', which helped me gain hands on knowledge in cleaning, analyzing, and interpreting data effectively.Right now, I'm continuing my journey through ''Google Data Analytics Professional Certificate''focusing on real-world tools and techniques used in the industry. Outside of tech, I am passionate about football and enjoy watching matches.
   
 
 ## 🌐 Socials:

@@ -2,13 +2,8 @@
 - 🔭 I’m currently working on Data Analyst Projects
 - 🌱 I’m currently learning Google Data Analytics Professional Certificate by Coursera
 - 💬 Ask me about Data Analyst
--📫 How to reach me:
-  Email: sadikibnkhairul77@gmail.com
-  WhatsApp: +8801948531294
-- 😄 Pronouns: He/HIm
-- ⚡ Fun fact: I Love Data
--👦🏻 About Me:
-
+- 📫 Feel free to reach out on Whatsapp or Email
+- 👦🏻 About Me
 I am an enthusiastic and self-motivated learner, currently building my skills to become a professional Data Analyst.
 
 Technology excites me and I am always in awe of the change it drives in the world. I’m learning how to collect, clean, analyze, and visualize data using industry-standard tools like Microsoft Excel, SQL, Power BI and Python. Recently, I have completed ''Career Essentials in Data Analysis by Microsoft and Linkedln'', which helped me gain hands on knowledge in cleaning, analyzing, and interpreting data effectively.
